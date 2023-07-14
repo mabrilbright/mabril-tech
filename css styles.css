@@ -394,7 +394,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: rgb(28, 162, 167);
   background: rgb(71, 69, 75);
 }
-
 @media screen and (max-width: 600px){
   .contact-form{
     flex-direction: column;
